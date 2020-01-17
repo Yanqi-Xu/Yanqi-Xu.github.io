@@ -1,17 +1,71 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+- title: Data Fellow, Investigative Reporting Workshop
+  from: JULY, 2019
+  to: present / Washington D.C.
+  description: 
+    I work on the [Accountability Project](https://source.opennews.org/articles/were-building-new-central-resource-public-data/), a [free resource](publicaccountability.org) for newsrooms to background people and organizations with public records in one place. I obtain, process and clean campaign finance and lobbying data from all 50 states. I contributed to IRW's _R package_ [campfin](https://github.com/irworkshop/campfin/blob/master/R/check-city.R), and developed algorithms that pull results from Google's Geocoding API to standardize spelling of cities.
+               
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Reporting Fellow, PolitiFact
+  from: JAN, 2019
+  to: MAY, 2019 / Washington D.C.
+  description: 
+    - I was a reporting fellow at PolitiFact fact-checking politicians' statements and FaceBook content. I research and find claims of facts, and use reporting to determine the truthfulness of those claims. I also took part in the team's coverage of the State of the Union in 2019, and the release of Mueller Report.
+    - I developed the Sunday Shows scraper, which automatically scrapes transcripts of Sunday shows,organizes them in a database and submits to ClaimBuster, a natural-language-processing API that rates a statement's checkability.
+
+- title: Data Library Research Assistant, National Institute for Computer-Assisted Reporting 
+  from: SEPT, 2018
+  to: JAN, 2019 / Columbia, MO
+  description: 
+    - I used R to clean up the National Bridge Inventory and FBI's Uniform Crime Reporting database. 
+
+- title: Morning News Anchor, KBIA FM 91.3
+  from: AUG, 2018
+  to: DEC, 2018 / Columbia, MO
+  description: 
+    - I produced three 2-mins to 3-minutes newscasts Morning Edition on mid-Missouri's local NPR affiliate by generating stories from AP wires, local newspaper copies, and stories filed by reporters. 
+    - I was part of a team on election night. 
+    - I did Pledge Drive for our listeners!
+
+- title: Supervising Producer, Global Journalist
+  from: AUG, 2018
+  to: DEC, 2018 / Columbia, MO
+  description: 
+    - I led two teams of producers for the 30-minute videocasts of a weekly news talk show on undercovered international news. I oversaw research, guest-booking, b-roll, and social media promotion. 
+    - On the day of taping, I operated the Skype calls and communicated with show host about questions to ask guests. 
+
+- title: Assistant Producer, Global Journalist
+  from: SEP, 2017
+  to: DEC, 2017 / Columbia, MO 
+  description: 
+    - I pitched, booked guests and pre-interview them for our weekly program.
+    - I also produced four summer shows in the summer of 2018, as well as the Missouri Honor's Medal show with award recipient Peter Hessler.
+
+- title: Research Assistant, National Freedom of Information Coalition
+  from: SEP, 2017
+  to: MAY, 2018 / Columbia, MO 
+  description: 
+    - I was the social media jockey for NFOIC, a nonprofit, nonpartisan organization of state and regional affiliates representing 35 states and D.C. 
+    - I monitored FOI-related news and posted them on our Drupal blog. I also help put together the speakers list for the FOI Summit in 2017.
+  
+- title: Social Media Intern, Al Jazeera Beijing Bureau
+  from: SEP, 2016
+  to: DEC, 2016 / Beijing, CHINA
+  description: 
+    - I assisted the bureau's breaking news coverage on social media in Chinese language. I also helped research stories about China's Internet boom and transcribed interviews
+    - I translated, subtitled and annotated Al Jazeera's English content for Chinese social media audience.
+
+- title: Editorial Intern, CCTV News
+  from: MARCH, 2016
+  to: MAY, 2016 / Beijing, CHINA
+  description: 
+    - I wrote copies, edited VOs and packages for the flagship program on CCTV News (Now CGTN).
+    - I booked guests and prepared questions on the show. 
+    - I assisted live coverage, including operating the teleprompter 
+
+- title: Reporter/Anchor, Weekly Focus
+  from: SEP, 2013
+  to: MAY, 2014 / Beijing, CHINA
+  description: 
+    - Weekly Focus is a radio program, where I first started my foray into news production. I wrote copies, collected soundbites and edited audio for international news coverage. 
+    - I reported on events and unisersity policies.

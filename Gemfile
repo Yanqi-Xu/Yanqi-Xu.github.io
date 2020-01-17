@@ -6,3 +6,4 @@ gem 'rspec'
 gem "jekyll-github-metadata"
 gem "jekyll-octicons"
 gem "jemoji"
+gem 'faraday', '0.17.3'
