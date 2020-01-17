@@ -1,6 +1,6 @@
 ---
 title: Produced Shows at Global Journalist
-tags: [International, Producing, News Writing]
+tags: [International, Producing, News writing]
 style: fill
 color: danger
 description: I produced shows for Global Journalist. Everything from pitching, interviewing, researching, video editing, critiquing, to audience engagement.

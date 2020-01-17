@@ -2,7 +2,7 @@
 
 <div class="input-group mt-5 px-3">
   <input id="search-input" type="text" class="form-control search-box"
-    placeholder="Search my work by title or browse tags">
+    placeholder="Search by keywords or browse by tags">
   <div class="input-group-append">
     <span class="input-group-text border border-primary bg-primary text-white">
       <i class="fas fa-search"></i>
@@ -22,6 +22,6 @@
     resultsContainer: document.getElementById('results-container'),
     searchResultTemplate: '<a href="{url}" class="list-group-item list-group-item-action">{title}</a>',
     noResultsText: '<li class="list-group-item">No results found</li>',
-    json: '{{ '/search.json ' | relative_url }}'
+    json: '{{ '/search.json' | relative_url }}'
   })
 </script>
