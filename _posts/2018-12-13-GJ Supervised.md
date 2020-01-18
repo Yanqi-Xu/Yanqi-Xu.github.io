@@ -21,11 +21,11 @@ description: I lead two teams of producers and oversee show production
 I hear and help polish their pitches, which were presented to the newsroom and voted on. Then I give assitant producers instructions on the types of guests we would want to include on our panel, and help them reach out to the potential guests. 
 
 ## The day of
-Assistant producers come in the studio to cue the visuals, and live tweets for social promotion. I operate the Skype backend to make sure that everyone is on time and their camera and mic were set up properly.
-
+Assistant producers come in the studio to cue the visuals, and live tweets for social promotion. I work the phones and make sure that everyone is on time and their camera and mic were set up properly.
 
 ## What I enjoy the most
-Most of the producers came in and had no experience producing a whole 30-minute show. I help them make an idea come together.
+Most of the producers came in and had no experience producing a whole 30-minute show. I help them polish their pitches, and make an idea come together.
+
 I also used my GIS knowledge to make this graphic for my last show at Global Journalist, presenting the significant growth of India's toilet-equipped households.
 
 {% include elements/figure.html image="../assets/img/indiatoilet_annotated.png" caption="This “Clean India” campaign has built more than 90 million new latrines and toilets in four years" %}

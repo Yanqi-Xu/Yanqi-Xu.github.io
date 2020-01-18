@@ -1,12 +1,11 @@
 ---
-title: Multimedia dayturn stories
+title: Multimedia deadline reporting
 tags: [News writing]
 style: fill
 color: success
 description: I worked as a general assignment reporter for mid-Missouri radio station KBIA, and the newspaper Columbia Missourian.
 ---
 ## Radio wraps
-
 April 4, 2018 [Maledy, Blackburn Win Columbia Board of Education Race, Bond Issue Passes](https://www.kbia.org/post/maledy-blackburn-win-columbia-board-education-race-bond-issue-passes#stream/0)
 
 March 14, 2018 [Lincoln University Names Jerald Woolfolk New President]((https://www.kbia.org/post/maledy-blackburn-win-columbia-board-education-race-bond-issue-passes#stream/0))
