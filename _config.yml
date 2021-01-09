@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Yanqi Xu
 description         : >-                               # >- means to ignore newlines until "url:"
-                      "Hi this is Yanqi. I am a data journalist. I pore over datasets to discover trends and use graphics and visualizations to convey hidden information to readers."
+                      "Hi this is Yanqi. I am a reporter covering courts and law in North Carolina for NC Policy Watch."
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
